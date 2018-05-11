@@ -1,0 +1,4 @@
+the database is given in above folder "please import database"
+
+and also the mail service is set on local server so you also have to set mail servie at localhost using send mail in xampp and configuring php.ini in php folder
+or you can purchase hosting to run mail properly.
